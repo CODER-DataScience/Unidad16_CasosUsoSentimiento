@@ -1,0 +1,6 @@
+texto,sentimiento_real,timestamp_publicado,timestamp_detectado
+"El servicio está caído, pésimo soporte",negativo,1,2
+"Muy buena atención, gracias!",positivo,2,3
+"No funciona la app, estoy molesto",negativo,3,4
+"Excelente experiencia, todo rápido",positivo,4,5
+"Demasiados problemas, no lo recomiendo",negativo,5,7
